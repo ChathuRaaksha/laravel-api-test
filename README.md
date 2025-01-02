@@ -104,9 +104,12 @@ echo $token;
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
+Contact Information
+For any questions, concerns, or support needs, please contact:
+Supun Chathuranga
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Email: chathurangarulz@gmail.com
+Phone: +46762646237
 
 ## Acknowledgments
 
