@@ -34,6 +34,7 @@ composer install
 cp .env.example .env
 ```
 Then update the `.env` file with your database credentials and other configuration settings.
+Add ADMIN_EMAIL= for configure admin mail address in .env
 
 4. Set up the database
 ```bash
