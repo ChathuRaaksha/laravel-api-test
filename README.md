@@ -33,8 +33,18 @@ composer install
 ```bash
 cp .env.example .env
 ```
-Then update the `.env` file with your database credentials and other configuration settings.
+Then update the `.env` file with your database credentials and mail configuration settings.
 Add ADMIN_EMAIL= for configure admin mail address in .env
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=-----
+MAIL_PASSWORD=----
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=-----
+MAIL_FROM_NAME="CheckProof"
+ADMIN_EMAIL=-----
 
 4. Set up the database
 ```bash
